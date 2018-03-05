@@ -10,4 +10,6 @@ Use SpreeadSheet to configure
 
 pulley height and turn number is automaticaly computed
 
+![picture](doc/small_pulley.png)
+
 
